@@ -1,0 +1,19 @@
+{
+  "name": "neuroscan",
+  "version": "1.0.0",
+  "description": "A web app to detect Brain Tumors via MRI Scan",
+  "main": "app.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnaKV2004/NeuroScan.git"
+  },
+  "author": "Krishna Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KrishnaKV2004/NeuroScan/issues"
+  },
+  "homepage": "https://github.com/KrishnaKV2004/NeuroScan#readme"
+}
